@@ -262,4 +262,4 @@ Python bytecode, `tables/` and `figures/` written by the analysis, a reader's `r
 
 ## Licence
 
-MIT; see `LICENSE`.
+Released under the MIT License; see [LICENSE](LICENSE).
